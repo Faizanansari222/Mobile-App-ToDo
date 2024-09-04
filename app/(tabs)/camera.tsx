@@ -1,12 +1,10 @@
 import React from 'react'
-import { Button } from 'react-native'
+import { Button, Text, View } from 'react-native'
 
 function Camera() {
-  return (
-    <div>
-   
-    </div>
-  )
+  return <View>
+  <Text>Hello </Text >
+  </View>
 }
 
 export default Camera
